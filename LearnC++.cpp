@@ -2,7 +2,8 @@
 using namespace std;
 
 int main() {
-     cout << "Hey Striver!" << endl << "Hey Raj!" << endl;
-     cout << "Hey Striver!";
+     int x;
+     cin >> x;
+     cout << "Value of x:" << x;
      return 0;
 }
